@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/sisVentas/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/composer" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/sisVentas/vendor/psr/log" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/sisVentas/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
